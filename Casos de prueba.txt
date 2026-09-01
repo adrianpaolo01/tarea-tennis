@@ -1,0 +1,25 @@
+Casos de prueba
+
+1. Si ningun jugador anotó, debe mostrar Love-Love
+
+2. Si SOLO el jugador 1 anotó, debe mostrar 15-Love
+2. Si SOLO el jugador 2 anotó, debe mostrar Love-15
+
+3. Si ambos jugadores anotaron una vez, debe mostrar 15-15
+
+4. Si el jugador 1 anota por segunda vez pero no el jugador 2, debe mostrar 30-15
+4. Si el jugador 2 anota por segunda vez pero no el jugador 1, debe mostrar 15-30
+
+5. Si ambos jugadores anotaron 2 veces , debe mostrar 30-30
+
+6. Si el jugador 1 anota por tercera vez pero el jugador 2 no, debe mostrar 40-30
+6. Si el jugador 2 anota por tercera vez pero el jugador 1 no, debe mostrar 30-40
+
+7. Ambos jugadores anotaron 3 veces, debe mostrar Deuce
+
+8. Si el jugador 1 anota por cuarta vez, pero no el jugador 2, debe mostrar Advantage Player 1
+9. Si el jugador 1 anota por quita consecutiva o 2 veces consecutivas,sin que el jugador 2 anote, debe mostrar Game for player 1
+
+10. Si el jugador 2 anota por cuarta vez, pero no el jugador 1, debe mostrar Advantage Player 2
+11. Si el jugador 2 anota por quita consecutiva o 2 veces consecutivas,sin que el jugador 1 anote, debe mostrar Game for player 2
+.
