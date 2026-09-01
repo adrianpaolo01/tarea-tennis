@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "a4a3ecf64428229a09c4fae4bad5d6e4e97a9c9c",
     "author": "Adrian Paolo",
     "commit": {
       "date": "2026-09-01T14:08:52.000Z",
       "message": "feat: realizando la clase de Tennis",
-      "url": "https://github.com/adrianpaolo01/tarea-tennis/commit/HEAD"
+      "url": "https://github.com/adrianpaolo01/tarea-tennis/commit/a4a3ecf64428229a09c4fae4bad5d6e4e97a9c9c"
     },
     "stats": {
       "total": 39,
@@ -17,5 +17,24 @@
     "test_count": 2,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Paolo",
+    "commit": {
+      "date": "2026-09-01T14:10:43.000Z",
+      "message": "fix: arreglando la funcion de Tennis",
+      "url": "https://github.com/adrianpaolo01/tarea-tennis/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
+      "deletions": 1,
+      "date": "2026-09-01"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]

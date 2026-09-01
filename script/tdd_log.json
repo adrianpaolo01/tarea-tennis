@@ -8,9 +8,23 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "a4a3ecf64428229a09c4fae4bad5d6e4e97a9c9c",
     "commitName": "feat: realizando la clase de Tennis",
     "commitTimestamp": 1788271734144,
     "testId": 0
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1788271793296,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "fix: arreglando la funcion de Tennis",
+    "commitTimestamp": 1788271844721,
+    "testId": 1
   }
 ]

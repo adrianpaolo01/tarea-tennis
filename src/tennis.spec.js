@@ -2,7 +2,7 @@
 
 describe("Tennis", () => {
   it("deberia msotrar Love-Love", () => {
-    let tennis = Tennis.new()
+    let tennis = new Tennis();
     expect(tennis.obtenerScore()).toEqual("Love - Love");
   });
 });
