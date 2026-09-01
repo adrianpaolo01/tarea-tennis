@@ -1,4 +1,4 @@
-
+import Tennis from "./tennis";
 
 describe("Tennis", () => {
   it("deberia msotrar Love-Love", () => {
@@ -7,8 +7,3 @@ describe("Tennis", () => {
   });
 });
 
-class Tennis {
-    obtenerScore(){
-        return "Love - Love"
-    }
-}

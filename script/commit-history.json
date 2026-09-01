@@ -19,17 +19,36 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "f977ff5102ee2313d39e578f21632349974911d2",
     "author": "Adrian Paolo",
     "commit": {
       "date": "2026-09-01T14:10:43.000Z",
       "message": "fix: arreglando la funcion de Tennis",
-      "url": "https://github.com/adrianpaolo01/tarea-tennis/commit/HEAD"
+      "url": "https://github.com/adrianpaolo01/tarea-tennis/commit/f977ff5102ee2313d39e578f21632349974911d2"
     },
     "stats": {
       "total": 2,
       "additions": 1,
       "deletions": 1,
+      "date": "2026-09-01"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Paolo",
+    "commit": {
+      "date": "2026-09-01T14:16:17.000Z",
+      "message": "feat: creanndo tennis.js",
+      "url": "https://github.com/adrianpaolo01/tarea-tennis/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 7,
+      "deletions": 6,
       "date": "2026-09-01"
     },
     "coverage": 100,
