@@ -171,17 +171,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "430a908e712a027549c8a8053a2cef6cb3468694",
     "author": "Adrian Paolo",
     "commit": {
       "date": "2026-09-03T13:26:31.000Z",
       "message": "feat: funcionalidad Advantage Player 2",
-      "url": "https://github.com/adrianpaolo01/tarea-tennis/commit/HEAD"
+      "url": "https://github.com/adrianpaolo01/tarea-tennis/commit/430a908e712a027549c8a8053a2cef6cb3468694"
     },
     "stats": {
       "total": 17,
       "additions": 17,
       "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 13,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Paolo",
+    "commit": {
+      "date": "2026-09-03T13:38:58.000Z",
+      "message": "feat: front basico para visializar marcador",
+      "url": "https://github.com/adrianpaolo01/tarea-tennis/commit/HEAD"
+    },
+    "stats": {
+      "total": 78,
+      "additions": 68,
+      "deletions": 10,
       "date": "2026-09-03"
     },
     "coverage": 100,

@@ -198,9 +198,23 @@
     "testId": 9
   },
   {
-    "commitId": "HEAD",
+    "commitId": "430a908e712a027549c8a8053a2cef6cb3468694",
     "commitName": "feat: funcionalidad Advantage Player 2",
     "commitTimestamp": 1788441992762,
     "testId": 9
+  },
+  {
+    "numPassedTests": 13,
+    "failedTests": 0,
+    "numTotalTests": 13,
+    "timestamp": 1788442574141,
+    "success": true,
+    "testId": 10
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: front basico para visializar marcador",
+    "commitTimestamp": 1788442740384,
+    "testId": 10
   }
 ]
