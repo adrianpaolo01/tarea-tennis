@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "13244e2a78a6f70840f819ae4d630342e72afda7",
     "author": "Adrian Paolo",
     "commit": {
       "date": "2026-09-01T14:16:17.000Z",
       "message": "feat: creanndo tennis.js",
-      "url": "https://github.com/adrianpaolo01/tarea-tennis/commit/HEAD"
+      "url": "https://github.com/adrianpaolo01/tarea-tennis/commit/13244e2a78a6f70840f819ae4d630342e72afda7"
     },
     "stats": {
       "total": 13,
@@ -53,6 +53,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Paolo",
+    "commit": {
+      "date": "2026-09-03T13:03:08.000Z",
+      "message": "feat: añadiendo funcionalidad jugador 2 anota",
+      "url": "https://github.com/adrianpaolo01/tarea-tennis/commit/HEAD"
+    },
+    "stats": {
+      "total": 41,
+      "additions": 39,
+      "deletions": 2,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }
