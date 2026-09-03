@@ -29,6 +29,12 @@ class Tennis {
             score = "30-15"
         }
         
+        if(this.puntosJ1 === 1 && this.puntosJ2 === 2){
+            score = "15-30"
+        }
+
+        
+
         return score
     }
     

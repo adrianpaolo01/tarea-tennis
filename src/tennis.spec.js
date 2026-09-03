@@ -25,12 +25,20 @@ describe("Tennis", () => {
     expect(tennis.obtenerScore()).toEqual("15-15");
   })
 
-  it("si el jugador 1 anotó por segunda vez, y el segundo una, deberia mostrar 30-15", () =>{
+  it("si el jugador 1 anotó por segunda vez, y el 2 una, deberia mostrar 30-15", () =>{
     let tennis = new Tennis();
     tennis.jugador1Anota();
     tennis.jugador1Anota();
     tennis.jugador2Anota();
     expect(tennis.obtenerScore()).toEqual("30-15");
+  })
+
+    it("si el jugador 2 anotó por segunda vez, y el 1 una, deberia mostrar 30-15", () =>{
+    let tennis = new Tennis();
+    tennis.jugador1Anota();
+    tennis.jugador2Anota();
+    tennis.jugador2Anota();
+    expect(tennis.obtenerScore()).toEqual("15-30");
   })
 
 

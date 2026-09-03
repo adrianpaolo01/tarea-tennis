@@ -120,9 +120,15 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "0b1752d8bd57384814822ee429341df973bf79c8",
     "commitName": "feat: dos nuevas funcionalidades, 15-15 y 30-15",
     "commitTimestamp": 1788441027395,
     "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: dos nuevas funcionalidades, 30-15 y 15-30",
+    "commitTimestamp": 1788441310281,
+    "testId": 5
   }
 ]
