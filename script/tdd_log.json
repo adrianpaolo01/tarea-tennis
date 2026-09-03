@@ -126,9 +126,31 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "41317df4345092666c0262af70241ebc17251277",
     "commitName": "feat: dos nuevas funcionalidades, 30-15 y 15-30",
     "commitTimestamp": 1788441310281,
     "testId": 5
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1788441336748,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1788441416799,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: funcionalidad 30-30",
+    "commitTimestamp": 1788441436870,
+    "testId": 6
   }
 ]

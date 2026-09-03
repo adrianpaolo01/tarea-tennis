@@ -41,6 +41,15 @@ describe("Tennis", () => {
     expect(tennis.obtenerScore()).toEqual("15-30");
   })
 
+  it("si ambos jugadores anotan dos veces, deberia mostrar 30-30", () =>{
+    let tennis = new Tennis();
+    tennis.jugador1Anota();
+    tennis.jugador1Anota();
+    
+    tennis.jugador2Anota();
+    tennis.jugador2Anota();
+    expect(tennis.obtenerScore()).toEqual("30-30");
+  })
 
 
   
