@@ -98,6 +98,19 @@ describe("Tennis", () => {
     expect(tennis.obtenerScore()).toEqual("Advantage Player 1");
   })
 
+  it("si el jugador2 anota por cuarta vez, pero el jugador 1 no,deberia mostrar Advantage Player 2", () =>{
+    let tennis = new Tennis();
+    tennis.jugador1Anota();
+    tennis.jugador1Anota();
+    tennis.jugador1Anota();
+
+    tennis.jugador2Anota();
+    tennis.jugador2Anota();
+    tennis.jugador2Anota();
+    tennis.jugador2Anota();
+    expect(tennis.obtenerScore()).toEqual("Advantage Player 2");
+  })
+
   
 });
 

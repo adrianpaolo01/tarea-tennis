@@ -184,9 +184,23 @@
     "testId": 8
   },
   {
-    "commitId": "HEAD",
+    "commitId": "4d5c98de96bd92214bf03de8da513bf1b83bd403",
     "commitName": "feat: funcionalidad Advantage Player 1",
     "commitTimestamp": 1788441928212,
     "testId": 8
+  },
+  {
+    "numPassedTests": 13,
+    "failedTests": 0,
+    "numTotalTests": 13,
+    "timestamp": 1788441980447,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: funcionalidad Advantage Player 2",
+    "commitTimestamp": 1788441992762,
+    "testId": 9
   }
 ]

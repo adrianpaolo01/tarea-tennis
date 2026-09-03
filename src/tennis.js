@@ -57,6 +57,10 @@ class Tennis {
             score = "Advantage Player 1" 
         }
 
+        if(this.puntosJ1 === 3 && this.puntosJ2 === 4){
+            score = "Advantage Player 2" 
+        }
+
 
 
 
