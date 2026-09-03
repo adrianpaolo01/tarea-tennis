@@ -148,9 +148,31 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "0661fda75d9cc67577c940cd62fa0b205a93a63f",
     "commitName": "feat: funcionalidad 30-30",
     "commitTimestamp": 1788441436870,
     "testId": 6
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1788441570185,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 0,
+    "numTotalTests": 11,
+    "timestamp": 1788441756864,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: funcionalidad de test para Deuce",
+    "commitTimestamp": 1788441775673,
+    "testId": 7
   }
 ]

@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "0661fda75d9cc67577c940cd62fa0b205a93a63f",
     "author": "Adrian Paolo",
     "commit": {
       "date": "2026-09-03T13:17:15.000Z",
       "message": "feat: funcionalidad 30-30",
-      "url": "https://github.com/adrianpaolo01/tarea-tennis/commit/HEAD"
+      "url": "https://github.com/adrianpaolo01/tarea-tennis/commit/0661fda75d9cc67577c940cd62fa0b205a93a63f"
     },
     "stats": {
       "total": 16,
@@ -129,6 +129,25 @@
     },
     "coverage": 100,
     "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Paolo",
+    "commit": {
+      "date": "2026-09-03T13:22:54.000Z",
+      "message": "feat: funcionalidad de test para Deuce",
+      "url": "https://github.com/adrianpaolo01/tarea-tennis/commit/HEAD"
+    },
+    "stats": {
+      "total": 52,
+      "additions": 50,
+      "deletions": 2,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 11,
     "failed_tests": 0,
     "conclusion": "success"
   }

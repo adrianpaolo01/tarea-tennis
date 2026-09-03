@@ -40,17 +40,50 @@ describe("Tennis", () => {
     tennis.jugador2Anota();
     expect(tennis.obtenerScore()).toEqual("15-30");
   })
-
+  
   it("si ambos jugadores anotan dos veces, deberia mostrar 30-30", () =>{
     let tennis = new Tennis();
     tennis.jugador1Anota();
     tennis.jugador1Anota();
-    
+
     tennis.jugador2Anota();
     tennis.jugador2Anota();
     expect(tennis.obtenerScore()).toEqual("30-30");
   })
+  
+  it("si el jugador1 anota por tercera vez, pero el jugador 2 no,deberia mostrar 40-30", () =>{
+    let tennis = new Tennis();
+    tennis.jugador1Anota();
+    tennis.jugador1Anota();
+    tennis.jugador1Anota();
 
+    tennis.jugador2Anota();
+    tennis.jugador2Anota();
+    expect(tennis.obtenerScore()).toEqual("40-30");
+  })
+
+  it("si el jugador2 anota por tercera vez, pero el jugador 1 no,deberia mostrar 40-30", () =>{
+    let tennis = new Tennis();
+    tennis.jugador1Anota();
+    tennis.jugador1Anota();
+
+    tennis.jugador2Anota();
+    tennis.jugador2Anota();
+    tennis.jugador2Anota();
+    expect(tennis.obtenerScore()).toEqual("30-40");
+  })
+
+  it("si ambos jugadores anotan tres veces, deberia mostrar Deuce", () =>{
+    let tennis = new Tennis();
+    tennis.jugador1Anota();
+    tennis.jugador1Anota();
+    tennis.jugador1Anota();
+
+    tennis.jugador2Anota();
+    tennis.jugador2Anota();
+    tennis.jugador2Anota();
+    expect(tennis.obtenerScore()).toEqual("Deuce");
+  })
 
   
 

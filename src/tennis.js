@@ -37,6 +37,21 @@ class Tennis {
             score = "30-30" 
         }
 
+        if(this.puntosJ1 === 3 && this.puntosJ2 === 2){
+            score = "40-30" 
+        }
+        
+        if(this.puntosJ1 === 2 && this.puntosJ2 === 3){
+            score = "30-40" 
+        }
+
+        if(this.puntosJ1 === 2 && this.puntosJ2 === 3){
+            score = "30-40" 
+        }
+
+        if(this.puntosJ1 === 3 && this.puntosJ2 === 3){
+            score = "Deuce" 
+        }
 
 
 
