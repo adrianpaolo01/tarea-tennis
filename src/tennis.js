@@ -53,6 +53,11 @@ class Tennis {
             score = "Deuce" 
         }
 
+        if(this.puntosJ1 === 4 && this.puntosJ2 === 3){
+            score = "Advantage Player 1" 
+        }
+
+
 
 
         return score

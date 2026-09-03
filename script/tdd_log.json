@@ -170,9 +170,23 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "28cd96e8202a1033e00853c6c0145e1e2d891d94",
     "commitName": "feat: funcionalidad de test para Deuce",
     "commitTimestamp": 1788441775673,
     "testId": 7
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 0,
+    "numTotalTests": 12,
+    "timestamp": 1788441901809,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: funcionalidad Advantage Player 1",
+    "commitTimestamp": 1788441928212,
+    "testId": 8
   }
 ]
