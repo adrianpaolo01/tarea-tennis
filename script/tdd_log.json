@@ -114,9 +114,15 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "009f3d97ab5bf942fa5aa597caf0d9ba7459db50",
     "commitName": "feat: añadiendo funcionalidad jugador 2 anota",
     "commitTimestamp": 1788440590593,
     "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: dos nuevas funcionalidades, 15-15 y 30-15",
+    "commitTimestamp": 1788441027395,
+    "testId": 4
   }
 ]

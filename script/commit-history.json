@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "009f3d97ab5bf942fa5aa597caf0d9ba7459db50",
     "author": "Adrian Paolo",
     "commit": {
       "date": "2026-09-03T13:03:08.000Z",
       "message": "feat: añadiendo funcionalidad jugador 2 anota",
-      "url": "https://github.com/adrianpaolo01/tarea-tennis/commit/HEAD"
+      "url": "https://github.com/adrianpaolo01/tarea-tennis/commit/009f3d97ab5bf942fa5aa597caf0d9ba7459db50"
     },
     "stats": {
       "total": 41,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Paolo",
+    "commit": {
+      "date": "2026-09-03T13:10:25.000Z",
+      "message": "feat: dos nuevas funcionalidades, 15-15 y 30-15",
+      "url": "https://github.com/adrianpaolo01/tarea-tennis/commit/HEAD"
+    },
+    "stats": {
+      "total": 30,
+      "additions": 28,
+      "deletions": 2,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }
